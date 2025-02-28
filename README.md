@@ -6,9 +6,9 @@ I integrate insights from computer science and political science, psychology, an
 
 🔍 My current research includes
 - Measuring generative AI content moderation preferences to inform AI alignment
-- Approximating [political neutrality in AI](https://ruthappel.github.io/assets/pdf/PN.pdf)
+- Approximating [political neutrality in AI](https://ruthappel.github.io/assets/pdf/PN.pdf) (under review at a CS conference)
 - Evaluating generative AI for [political bias](https://github.com/ruthappel/political_bias_eval/blob/main/political_bias_eval.ipynb)
-- Developing guidance for third-party AI evaluation based on a [workshop on AI evaluation](https://hai.stanford.edu/news/strengthening-ai-accountability-through-better-third-party-evaluations)
+- Developing guidance for third-party AI evaluation based on a [workshop on AI evaluation](https://hai.stanford.edu/news/strengthening-ai-accountability-through-better-third-party-evaluations) (under review at a CS conference)
 - Measuring the reach of influence campaigns on Facebook and Instagram during the 2020 US elections (part of the [Facebook and Instagram Election Study](https://www.nyu.edu/about/news-publications/news/2023/july/2020-election-studies-reveals-power-of-facebook--instagram-algor.html), under review at *Nature Human Behaviour*)
 - [Developing and evaluating an online game to counter vaccine misinformation](https://osf.io/preprints/psyarxiv/ek5pu) (under review at *Scientific Reports*)
 - [Evaluating misinformation interventions on Facebook at scale and in non-Western contexts](https://www.socialscienceregistry.org/trials/12480)
