@@ -1,14 +1,14 @@
 ### Hi!
 
-I'm Ruth, a Stanford Impact Labs Postdoctoral Fellow at Stanford University combining technical expertise in AI and empirical social science to shape safe and responsible technology development and policy. My award-winning research focuses on the societal impact of AI and social media and on developing evidence-based approaches to technology governance. 
+I'm Ruth, a Stanford Impact Labs Postdoctoral Fellow at Stanford University combining deep technical expertise in AI and empirical social science to shape safe and responsible technology development and policy. My award-winning research focuses on the societal impact of AI and social media and on developing evidence-based approaches to technology governance. 
 
 I integrate insights from computer science and political science, psychology, and economics, and I use computational and experimental methods to analyze large-scale datasets. I am particularly passionate about addressing governance and ethics challenges, preventing misinformation and election interference, and promoting wellbeing.
 
 🔍 My current research includes
 - Measuring generative AI content moderation preferences to inform AI alignment
-- Approximating [political neutrality in AI](https://ruthappel.github.io/assets/pdf/PN.pdf) (under review at a CS conference)
+- Approximating [political neutrality in AI](https://doi.org/10.48550/arXiv.2503.05728) (under review at a CS conference)
 - Evaluating generative AI for [political bias](https://github.com/ruthappel/political_bias_eval/blob/main/political_bias_eval.ipynb)
-- Developing guidance for third-party AI evaluation based on a [workshop on AI evaluation](https://hai.stanford.edu/news/strengthening-ai-accountability-through-better-third-party-evaluations) (under review at a CS conference)
+- Developing [guidance for third-party AI evaluation](https://crfm.stanford.edu/2025/03/13/thirdparty.html) based on a [workshop on AI evaluation](https://hai.stanford.edu/news/strengthening-ai-accountability-through-better-third-party-evaluations) (under review at a CS conference)
 - Measuring the reach of influence campaigns on Facebook and Instagram during the 2020 US elections (part of the [Facebook and Instagram Election Study](https://www.nyu.edu/about/news-publications/news/2023/july/2020-election-studies-reveals-power-of-facebook--instagram-algor.html), under review at *Nature Human Behaviour*)
 - [Developing and evaluating an online game to counter vaccine misinformation](https://osf.io/preprints/psyarxiv/ek5pu) (under review at *Scientific Reports*)
 - [Evaluating misinformation interventions on Facebook at scale and in non-Western contexts](https://www.socialscienceregistry.org/trials/12480)
